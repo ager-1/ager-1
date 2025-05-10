@@ -27,17 +27,6 @@ I'm currently exploring the intersection of XR development, computer vision, and
 
 ---
 
-## 📂 Highlight Projects
-
-| Project | Description | Tech Used |
-|--------|-------------|-----------|
-| 🎯 **Color Tracker** | Real-time color tracking with OpenCV | Python, OpenCV |
-| 🥾 **3D Shoe Ad** | Promotional animation for a custom 3D-modeled shoe | Blender, After Effects |
-| 🧪 **Rubber Sheet Process** | Animation explaining rubber sheet production | Blender, Video Editing |
-| 🧠 **Learning Path Tracker** *(Ongoing)* | Structured self-learning journey to XR engineer | Markdown, Git |
-
----
-
 ## 📈 GitHub Stats
 
 <!-- GitHub Readme Stats -->
@@ -50,9 +39,8 @@ I'm currently exploring the intersection of XR development, computer vision, and
 
 ## 📫 Connect With Me
 
-- 📧 Email: [your email here]
-- 💼 LinkedIn: [your LinkedIn profile]
-- 🌐 Portfolio: [your website or portfolio link]
+- 📧 Email: aghazofficial@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/aghaz-akhtar/
 
 ---
 
