@@ -25,8 +25,8 @@ I'm currently exploring the intersection of XR development, computer vision, and
 
 <!-- GitHub Readme Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ager-1&show_icons=true&theme=solarized-light" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ager-1&layout=compact&theme=solarized-light" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ager-1&show_icons=true&theme=vision-friendly-dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ager-1&layout=compact&theme=vision-friendly-dark" width="48%" />
 </p>
 
 ---
