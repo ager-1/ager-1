@@ -4,7 +4,7 @@
 Pursuing a Bachelor's in Interactive Media and Immersive Technology, with specialization in Virtual and Augmented Reality (VR/AR). I'm passionate about building immersive experiences that blend design, interaction, and real-time technology. With a strong foundation in 3D modeling and rendering, I bring digital environments to life using tools like Blender, Unity, and Unreal Engine.
 I'm currently exploring the intersection of XR development, computer vision, and real-time interactivity to push the boundaries of virtual experiences.
    <p align="left">
-     <a href="https://www.artstation.com/aghazakhtar" target="_blank" rel="noopener noreferrer">
+     <a href="https://www.artstation.com/aghazakhtar" target="_blank">
        <img src="https://img.shields.io/badge/Artstation%20Profile-0088CC?style=for-the-badge&logo=artstation&logoColor=white&labelColor=2C2F33" alt="Artstation Profile">
      </a>
    </p>
@@ -12,49 +12,17 @@ I'm currently exploring the intersection of XR development, computer vision, and
 ---
 
 ## 🤖 Languages, Libraries and Tools 
-
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <br>Python
-  </div>
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <br>C++
-  </div>
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <img alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <br>C#
-  </div>
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <img alt="Solidity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
-    <br>Solidity
-  </div>
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <img alt="OpenCV" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
-    <br>OpenCV
-  </div>
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <img alt="Matplotlib" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-    <br>Matplotlib
-  </div>
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <img alt="Numpy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-    <br>Numpy
-  </div>
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <img alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-    <br>Unity
-  </div>
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <img alt="Unreal Engine" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
-    <br>Unreal Engine
-  </div>
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <img alt="Blender" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
-    <br>Blender
-  </div>
-</div>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<br />
 
 ---
 
