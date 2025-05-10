@@ -1,13 +1,12 @@
-# 👋 Hi, I'm Ager
+# Hi, I'm Ager
 
 Pursuing a Bachelor's in Interactive Media and Immersive Technology, specializing in Virtual and Augmented Reality (VR/AR). I'm passionate about building immersive experiences that blend design, interaction, and real-time technology. With a strong foundation in 3D modeling and animation, I bring digital environments to life using tools like Blender, Unity, and Unreal Engine.
 I'm currently exploring the intersection of XR development, computer vision, and real-time interactivity to push the boundaries of virtual experiences.
 
 ---
 
----
 
-## 🎨 Latest ArtStation Uploads
+## Latest ArtStation Uploads
 
 <!-- ARTSTATION:START -->
 <!-- ARTSTATION:END -->
@@ -15,7 +14,7 @@ I'm currently exploring the intersection of XR development, computer vision, and
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
