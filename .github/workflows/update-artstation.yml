@@ -2,7 +2,7 @@ name: Update ArtStation Section
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
+    - cron: "0 * * * *"  # Runs every hour
   workflow_dispatch:
 
 permissions:
