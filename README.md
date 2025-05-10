@@ -5,15 +5,13 @@ I'm currently exploring the intersection of XR development, computer vision, and
 
 ---
 
-## 🚀 About Me
+---
 
-I'm passionate about building immersive digital experiences by combining 3D design, computer vision, and interactive technologies.  
-Currently on a structured journey to become a professional **XR Engineer**, exploring:
+## 🎨 Latest ArtStation Uploads
 
-- 🧠 Computer Vision (OpenCV, NumPy, 3D Reconstruction, SLAM)
-- 🕶️ XR Development (Unity, Unreal Engine, AR/VR SDKs)
-- 🧱 3D Modeling & Animation (Blender)
-- 🤖 AI Integration with XR (ML for Vision Tasks)
+<!-- ARTSTATION:START -->
+<!-- ARTSTATION:END -->
+
 
 ---
 
