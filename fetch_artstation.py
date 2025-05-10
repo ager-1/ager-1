@@ -1,9 +1,10 @@
 import requests
+from bs4 import BeautifulSoup
 import re
 import logging
 
 USERNAME = "aghazakhtar"
-URL = f"https://www.artstation.com/{USERNAME}/projects.json"
+URL = f"https://www.artstation.com/{USERNAME}"
 LIMIT = 3  # number of projects
 
 logging.basicConfig(level=logging.INFO)
@@ -12,12 +13,13 @@ def fetch_latest_projects():
     try:
         response = requests.get(URL)
         response.raise_for_status()
-        projects = response.json()['data'][:LIMIT]
+        soup = BeautifulSoup(response.content, 'lxml')
+        projects = soup.find_all('li', class_='gallery-item')[:LIMIT]
         lines = []
         for proj in projects:
-            title = proj['title']
-            link = proj['permalink']
-            thumb = proj['cover']['small_image_url']
+            title = proj.find('a', class_='project-title').text.strip()
+            link = proj.find('a', class_='project-title')['href']
+            thumb = proj.find('img', class_='image')['src']
             lines.append(f"!{title}")
         logging.info("Successfully fetched projects")
         return "\n".join(lines)
