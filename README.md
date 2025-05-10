@@ -5,26 +5,11 @@ I'm currently exploring the intersection of XR development, computer vision, and
 
 ---
 
+## Languages, Libraries and Tools 
 
-## Latest ArtStation Uploads
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
 
-<!-- ARTSTATION:START -->
-![Amazing Artwork](https://www.artstation.com/artwork/OGQzPv)
-
-<!-- ARTSTATION:END -->
-
-
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+<br />
 
 ---
 
