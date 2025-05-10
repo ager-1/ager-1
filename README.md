@@ -9,7 +9,8 @@ I'm currently exploring the intersection of XR development, computer vision, and
 ## Latest ArtStation Uploads
 
 <!-- ARTSTATION:START -->
-Error fetching projects
+![Amazing Artwork](https://www.artstation.com/artwork/OGQzPv)
+
 <!-- ARTSTATION:END -->
 
 
