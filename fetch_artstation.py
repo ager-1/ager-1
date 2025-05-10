@@ -18,7 +18,7 @@ def fetch_latest_projects():
             title = proj['title']
             link = proj['permalink']
             thumb = proj['cover']['small_image_url']
-            lines.append(f"!{title} - More Info")
+            lines.append(f"!{title}")
         logging.info("Successfully fetched projects")
         return "\n".join(lines)
     except requests.exceptions.RequestException as e:
