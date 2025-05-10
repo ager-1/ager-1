@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Aghaz Akhtar
+# 👋 Hi, I'm Aghaz
 
-🎓 Bachelor's Student in Extended Reality (XR)  
-🛠️ XR Developer | 3D Designer | Computer Vision Enthusiast  
-📍 Based in [Your City], Malaysia
+Pursuing a Bachelor's in Interactive Media and Immersive Technology, specializing in Virtual and Augmented Reality (VR/AR). I'm passionate about building immersive experiences that blend design, interaction, and real-time technology. With a strong foundation in 3D modeling and animation, I bring digital environments to life using tools like Blender, Unity, and Unreal Engine.
+I'm currently exploring the intersection of XR development, computer vision, and real-time interactivity to push the boundaries of virtual experiences.
 
 ---
 
@@ -45,8 +44,8 @@ Currently on a structured journey to become a professional **XR Engineer**, expl
 
 <!-- GitHub Readme Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ager-1&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ager-1&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
