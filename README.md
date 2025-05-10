@@ -4,8 +4,8 @@
 Pursuing a Bachelor's in Interactive Media and Immersive Technology, specializing in Virtual and Augmented Reality (VR/AR). I'm passionate about building immersive experiences that blend design, interaction, and real-time technology. With a strong foundation in 3D modeling and animation, I bring digital environments to life using tools like Blender, Unity, and Unreal Engine.
 I'm currently exploring the intersection of XR development, computer vision, and real-time interactivity to push the boundaries of virtual experiences.
    <p align="center">
-     <a href="https://github.com/your-repo/issues/new" target="_blank">
-       <img src="https://img.shields.io/badge/Create%20New%20Issue-blue?style=for-the-badge&logo=github" alt="Create New Issue">
+     <a href="https://www.artstation.com/aghazakhtar" target="_blank">
+       <img src="https://img.shields.io/badge/Create%20New%20Issue-blue?style=for-the-badge&logo=github" alt="Artstation Profile">
      </a>
    </p>
 
