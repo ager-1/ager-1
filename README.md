@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ager
 #### **XR Developer | Computer Vision Developer | Web3 Enthusiast**
 
-Pursuing a Bachelor's in Interactive Media and Immersive Technology, with specialization in Virtual and Augmented Reality (VR/AR). I'm passionate about building immersive experiences that blend design, interaction, and real-time technology. With a strong foundation in 3D modeling and rendering, I bring digital environments to life using tools like Blender, Unity, and Unreal Engine.
+Pursuing a Bachelor's in Interactive Media and Immersive Technology, with specialization in Virtual and Augmented Reality (VR/AR). I'm passionate about building immersive experiences that blend design, interaction, and real-time technology. With a strong foundation in 3D modeling and rendering(uploading on [Artstation]), I bring digital environments to life using tools like Blender, Unity, and Unreal Engine.
 I'm currently exploring the intersection of XR development, computer vision, and real-time interactivity to push the boundaries of virtual experiences.
    <p align="left">
      <a href="https://www.artstation.com/aghazakhtar" target="_blank">
