@@ -5,7 +5,7 @@ Pursuing a Bachelor's in Interactive Media and Immersive Technology, specializin
 I'm currently exploring the intersection of XR development, computer vision, and real-time interactivity to push the boundaries of virtual experiences.
    <p align="left">
       <a href="https://www.artstation.com/aghazakhtar">
-         <img alt="artstation" title="Artstation Profile" src="https://img.icons8.com/?size=100&id=106536&format=png&color=000000"/></a> 
+         <img alt="artstation" title="Artstation Profile" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 ---
 
 ## 🤖 Languages, Libraries and Tools 
