@@ -1,2 +1,4 @@
 requests
 logging
+beautifulsoup4
+lxml
