@@ -23,7 +23,6 @@ I'm currently exploring the intersection of XR development, computer vision, and
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <br />
 
-#
 ---
 
 ## 📈 GitHub Stats
