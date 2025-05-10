@@ -3,7 +3,7 @@ import re
 import logging
 
 USERNAME = "aghazakhtar"
-URL = f"https://www.artstation.com/users/{USERNAME}/projects.json"
+URL = f"https://www.artstation.com/{USERNAME}/projects.json"
 LIMIT = 3  # number of projects
 
 logging.basicConfig(level=logging.INFO)
