@@ -1,20 +1,29 @@
 import requests
 import re
+import logging
 
 USERNAME = "aghazakhtar"
 URL = f"https://www.artstation.com/users/{USERNAME}/projects.json"
 LIMIT = 3  # number of projects
 
+logging.basicConfig(level=logging.INFO)
+
 def fetch_latest_projects():
-    response = requests.get(URL)
-    projects = response.json()['data'][:LIMIT]
-    lines = []
-    for proj in projects:
-        title = proj['title']
-        link = proj['permalink']
-        thumb = proj['cover']['small_image_url']
-        lines.append(f"[![{title}]({thumb})]({link})")
-    return "\n".join(lines)
+    try:
+        response = requests.get(URL)
+        response.raise_for_status()
+        projects = response.json()['data'][:LIMIT]
+        lines = []
+        for proj in projects:
+            title = proj['title']
+            link = proj['permalink']
+            thumb = proj['cover']['small_image_url']
+            lines.append(f"!{title} - More Info")
+        logging.info("Successfully fetched projects")
+        return "\n".join(lines)
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Error fetching projects: {e}")
+        return "Error fetching projects"
 
 def update_readme(new_content):
     with open("README.md", "r", encoding="utf-8") as f:
