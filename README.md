@@ -39,7 +39,6 @@ I'm currently exploring the intersection of XR development, computer vision, and
 ## 📫 Connect With Me
 
 - 📧 Email: aghazofficial@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/aghaz-akhtar/
 
 ---
 
