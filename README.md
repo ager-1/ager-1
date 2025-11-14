@@ -26,7 +26,7 @@ I'm currently exploring the intersection of XR development, computer vision, and
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <!-- GitHub Readme Stats -->
 <p align="center">
