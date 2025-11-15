@@ -30,7 +30,7 @@ I'm currently exploring the intersection of XR development, computer vision, and
 
 <!-- GitHub Readme Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ager-1&show_icons=true&theme=swift" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ager-1&show_icons=true&theme=swift&cache_seconds=7200" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ager-1&layout=compact&theme=swift&cache_seconds=7200" width="48%" />
 </p>
 
