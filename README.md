@@ -26,15 +26,6 @@ I'm currently exploring the intersection of XR development, computer vision, and
 
 ---
 
-## 📈 GitHub Statistics
-
-<!-- GitHub Readme Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ager-1&show_icons=true&theme=swift" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ager-1&layout=compact&theme=swift" width="48%" alt="Top Languages" />
-</div>
-
----
 
 ## 📫 Connect With Me
 
